@@ -1,0 +1,1 @@
+/Users/frenchben/.zsh_themes/themes/spaceship-prompt/spaceship.zsh-theme
